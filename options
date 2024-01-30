@@ -1,32 +1,32 @@
-<option value="10">Bullhead City</option>
-<option value="44">Casa Grande</option>
-<option value="11">Chinle</option>
-<option value="39">Claypool</option>
-<option value="12">Cottonwood</option>
-<option value="13">Douglas</option>
-<option value="41">Ehrenberg</option>
-<option value="14">Flagstaff</option>
-<option value="15">Glendale</option>
-<option value="16">Holbrook</option>
-<option value="17">Kingman Port of Entry</option>
-<option value="38">Lake Havasu</option>
-<option value="18">Mesa</option>
-<option value="19">Nogales</option>
-<option value="21">Page</option>
-<option value="42">Parker</option>
-<option value="22">Payson</option>
-<option value="43">Phoenix</option>
-<option value="23">Prescott</option>
-<option value="24">Safford</option>
-<option value="25">San Luis</option>
-<option value="26">Sanders</option>
-<option value="27" selected="selected">Scottsdale</option>
-<option value="40">Show Low</option>
-<option value="28">Sierra Vista</option>
-<option value="29">St. George</option>
-<option value="30">Teec Nos Pos</option>
-<option value="31">Tempe</option>
-<option value="33">Tucson</option>
-<option value="34">Willcox</option>
-<option value="35">Window Rock</option>
-<option value="36">Winslow</option>
+Bullhead City
+Casa Grande
+Chinle
+Claypool
+Cottonwood
+Douglas
+Ehrenberg
+Flagstaff
+Glendale
+Holbrook
+Kingman Port of Entry
+Lake Havasu
+Mesa
+Nogales
+Page
+Parker
+Payson
+Phoenix
+Prescott
+Safford
+San Luis
+Sanders
+Scottsdale
+Show Low
+Sierra Vista
+St. George
+Teec Nos Pos
+Tempe
+Tucson
+Willcox
+Window Rock
+Winslow
